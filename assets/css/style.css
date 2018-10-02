@@ -1,0 +1,22 @@
+#imageContainer, #imageCol, #addButtonCol {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    height: auto;
+}
+
+#imageRow01 {
+    height: 3000px;
+}
+
+#presetBtnRow {
+    margin-top: 30px;
+    background-color: gray;
+}
+
+.btn {
+    margin-left: 5 px;
+    margin-right: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
